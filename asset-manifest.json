@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/udemy-react-movie-app/static/css/main.e3c413f7.css",
-    "main.js": "/udemy-react-movie-app/static/js/main.531e3bbd.js",
+    "main.js": "/udemy-react-movie-app/static/js/main.44d0eedf.js",
     "index.html": "/udemy-react-movie-app/index.html",
     "main.e3c413f7.css.map": "/udemy-react-movie-app/static/css/main.e3c413f7.css.map",
-    "main.531e3bbd.js.map": "/udemy-react-movie-app/static/js/main.531e3bbd.js.map"
+    "main.44d0eedf.js.map": "/udemy-react-movie-app/static/js/main.44d0eedf.js.map"
   },
   "entrypoints": [
     "static/css/main.e3c413f7.css",
-    "static/js/main.531e3bbd.js"
+    "static/js/main.44d0eedf.js"
   ]
 }
