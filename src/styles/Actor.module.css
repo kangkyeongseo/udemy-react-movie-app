@@ -1,0 +1,32 @@
+.actor {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.actorImg {
+  width: 40px;
+  border-radius: 50%;
+}
+
+.actorImgReplace {
+  width: 40px;
+  height: 40px;
+  background-color: #111;
+  border-radius: 50%;
+}
+
+.actorContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.actorName {
+  font-weight: bold;
+}
+
+.actorCharacter {
+  font-size: 12px;
+  opacity: 0.6;
+}

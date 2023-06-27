@@ -1,0 +1,22 @@
+.movieContaiber {
+  display: flex;
+  padding: 100px 0px 50px 0px;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.movieSection {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-bottom: 50px;
+}
+
+.movieSectionTitle {
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 50px;
+  margin-bottom: 15px;
+}
